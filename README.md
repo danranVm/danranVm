@@ -1,7 +1,7 @@
 ## 👨‍🎓 &nbsp;About Me 
 
-- 👽 &nbsp; Front end developer, mainly focus on [@idux](https://github.com/IduxFE/idux)
-- 💻 &nbsp; Working at [IduxFE](https://github.com/IduxFE)
+- 👽 &nbsp; Front end developer, mainly focus on [@idux](https://github.com/IDuxFE/idux)
+- 💻 &nbsp; Working at [IDuxFE](https://github.com/IDuxFE)
 
 ## ⌨️ &nbsp;Tech Stack
 
